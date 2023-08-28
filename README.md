@@ -7,7 +7,8 @@
 
 
 
-🚀 Começando
+
+## 🚀 Começando ##
 ## **E**xtract
 
 Extraindo dados de a partir do arquivo CSV "valorant_champions_istanbul". Atribuindo colunas específicas do conjunto de dados a variáveis separadas:
