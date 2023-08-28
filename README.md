@@ -39,7 +39,7 @@ Realizar Transformações nos Dados
 
 ## **L**oad
 
-Carregamento do processamento e análise dos dados coletados. Através de gráficos para visualizar informações cruciais que ajudaram a compreender melhor o desempenho dos jogadores, times e nacionalidades no torneio Valorant Champions Istanbul.
+Carregamento do processamento e análise dos dados coletados. Utilizandos gráficos para visualizar informações cruciais que ajudaram a compreender melhor o desempenho dos jogadores, times e nacionalidades no torneio Valorant Champions Istanbul.
 - Visualizações gráficas para apresentar de maneira clara e concisa as tendências, relações e padrões contidos nos dados agregados. 
 - Criação de gráficos informativos, destacando os elementos importantes que surgem dos dados agrupados, fornecendo uma visão panorâmica e detalhada das diferentes análises. 
 - Salvando o DataFrame combinado em um único arquivo CSV
