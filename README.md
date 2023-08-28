@@ -5,8 +5,9 @@
 - No coração do jogo Valorant, desempenho e estratégia convergem para criar um ambiente onde jogadores e times buscam dominar o campo de batalha.
 - O projeto envolve análises e estatísticas dos campeões do torneio Valorant Champions2022, explorando muito mais do que simples números. Através de visualizações gráficas que destacam alguns aspectos desse torneio único.
 
-🚀 Começando
 
+
+🚀 Começando
 ## **E**xtract
 
 Extraindo dados de a partir do arquivo CSV "valorant_champions_istanbul". Atribuindo colunas específicas do conjunto de dados a variáveis separadas:
