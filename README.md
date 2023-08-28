@@ -29,7 +29,7 @@ Realizar Transformações nos Dados
    - Cálculo das Médias de K/D Ratio e Rank
    - Impressão dos resultados
 2. Ordenação dos Times e Regiões:
-   - Ordenação Baseada em K/D Ratio ou Rank (Opção Selecionada)
+   - Ordenação Baseada em K/D ou Rank (Opção Selecionada)
    - Resultados Ordenados para Avaliação
    - Impressão dos resultados
 3. Análise de Correlação entre Métricas Selecionadas:
