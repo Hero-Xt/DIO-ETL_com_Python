@@ -45,5 +45,5 @@ Carregamento do processamento e análise dos dados coletados. Através de gráfi
 - Salvando o DataFrame combinado em um único arquivo CSV
 
 ## Itens Utilizados ##
-Bibliotecas: Pandas, Seaborn e matplotlib 
-Arquivo CSV: o pandas, seaborn e matplotlib são bibliotecas,
+- Bibliotecas: Pandas, Seaborn e matplotlib 
+- Arquivo CSV: o pandas, seaborn e matplotlib são bibliotecas,
