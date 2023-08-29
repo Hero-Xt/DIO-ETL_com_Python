@@ -2,10 +2,9 @@
 
 **Valorant Champions Analytics: Além dos Números**
 
-- No coração do jogo Valorant, desempenho e estratégia convergem para criar um ambiente onde jogadores e times buscam dominar o campo de batalha.
-- O projeto envolve análises e estatísticas dos campeões do torneio Valorant Champions2022, explorando muito mais do que simples números. Através de visualizações gráficas que destacam alguns aspectos desse torneio único.
+- O projeto envolve análises e estatísticas dos campeões do torneio Valorant Champions2022, explorando muito mais do que simples números, fazendo visualizações gráficas que destacam alguns aspectos desse torneio único.
 
-
+**No centro do jogo Valorant, a combinação entre como você joga e planeja se mistura para formar um lugar onde jogadores e times tentam vencer no campo de batalha.**
 
 
 ## 🚀 Começando ##
