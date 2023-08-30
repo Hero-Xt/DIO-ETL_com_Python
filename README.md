@@ -12,7 +12,7 @@
 ## 🚀 Começando ##
 ## **E**xtract
 
-Extraindo dados de a partir do arquivo CSV "valorant_champions_istanbul". Atribuindo colunas específicas do conjunto de dados a variáveis separadas:
+Extraindo dados a partir do arquivo CSV "valorant_champions_istanbul". Atribuindo colunas específicas do conjunto de dados a variáveis separadas:
 - Player: Nomes dos jogadores
 - Team: Nomes dos times dos jogadores
 - Nationality: Nacionalidade dos jogadores
