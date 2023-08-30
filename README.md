@@ -2,7 +2,7 @@
 
 **Criando um ETL(Extração, Transformação e Carga) com python, a partir de um arquivo csv contendo dados do Valorant Champions de 2022**
 
-##Valorant Champions Analytics: Além dos Números##
+## Valorant Champions Analytics: Além dos Números
 
 - O projeto envolve análises e estatísticas dos campeões do torneio Valorant Champions2022, explorando muito mais do que simples números, fazendo visualizações gráficas que destacam alguns aspectos desse torneio único.
 
