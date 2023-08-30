@@ -1,6 +1,6 @@
 # DIO - ETL com Python
 
-**Criando um ETL(Extração, Transformação e Carga) com python, a partir de um arquivo csv contendo dados do Valorant Champions de 2022**
+**Criando um ETL(Extração, Transformação e Carregamento) com python, a partir de um arquivo csv contendo dados do Valorant Champions de 2022**
 
 ## Valorant Champions Analytics: Além dos Números
 
