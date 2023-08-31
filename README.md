@@ -47,4 +47,4 @@ Carregamento do processamento e análise dos dados coletados. Utilizandos gráfi
 
 ## Itens Utilizados ##
 - Bibliotecas: Pandas, Seaborn e matplotlib 
-- Arquivo CSV: o pandas, seaborn e matplotlib são bibliotecas,
+- Arquivo CSV: "valorant_champions_istanbul.csv"
