@@ -1,0 +1,10 @@
+UserID,name,id
+1,Sofia Rodriguez,12
+2,Lucas Patel,13
+3,Isabella Smith,14
+4,Liam Nguyen,15
+5,Mia Johnson,16
+6,Noah Kim,17
+with open("SDW2023.csv", "r", encoding="utf-8") as csv_file:
+    csv_reader = csv.DictReader(csv_file)
+    user_data = list(csv_reader)
